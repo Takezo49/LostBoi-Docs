@@ -18,3 +18,7 @@
 ## General
 
 * [How to Start](general/how-to-start.md)
+
+## Cheatsheets
+
+* [OSCP CheatSheet](cheatsheets/oscp-cheatsheet.md)
