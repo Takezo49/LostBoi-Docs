@@ -14,3 +14,7 @@
   * [U.A. High School](writeups/tryhackme/u.a.-high-school.md)
 * [HTB](writeups/htb/README.md)
   * [Nibbles](writeups/htb/nibbles.md)
+
+## General
+
+* [How to Start](general/how-to-start.md)
