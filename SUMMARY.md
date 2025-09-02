@@ -22,3 +22,8 @@
 ## Cheatsheets
 
 * [OSCP CheatSheet](cheatsheets/oscp-cheatsheet.md)
+
+## Binary Exploitation
+
+* [What is a Memory?](binary-exploitation/what-is-a-memory.md)
+* [Assembly Basics](binary-exploitation/assembly-basics.md)
