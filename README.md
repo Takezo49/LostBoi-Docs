@@ -1,24 +1,4 @@
 ---
-cover: .gitbook/assets/Screenshot 2025-08-14 155714.png
-coverY: 0
-layout:
-  width: wide
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
 
 # Welcome
 
