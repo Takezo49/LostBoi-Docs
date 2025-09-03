@@ -26,6 +26,7 @@
 * `gobuster vhost -u http://example.com -w vhosts.txt --append-domain`
 * `gobuster vhost -u https://example.com -w vhosts.txt --no-tls-validation`
 * `gobuster vhost -u http://example.com -w vhosts.txt -H "User-Agent: Gobuster"`
+* `gobuster vhost -u http://exampl.com -w /usr/share/wordlists/seclists/Discovery/DNS/combined_subdomains.txt -t 64 --no-error --append-domain`
 
 #### 🔹 Fuzz
 
