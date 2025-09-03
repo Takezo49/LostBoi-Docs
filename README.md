@@ -7,7 +7,7 @@ coverY: 0
 
 ***
 
-## Welcome
+
 
 Welcome to a space where **web security is fun and easy to understand!**\
 Here, I’ll guide you through common web vulnerabilities like **XSS, SQL Injection, CSRF,** and many more — explained in a way that feels more like a chill hangout than a boring lecture.
