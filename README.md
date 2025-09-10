@@ -28,4 +28,4 @@ I bring a mix of **practical problem-solving and technical knowledge**. Whether 
 * Essential [Basic Tools](https://medium.com/@rajaaa0049/the-pentesters-toolkit-essential-basic-tools-for-ethical-hacking-in-2025-e508e8f855a4) For Ethical Hacking on medium - March 11,2025.
 * Hacking For[ Absolute Begineers](https://medium.com/@rajaaa0049/hacking-for-absolute-beginners-your-free-step-by-step-guide-to-cybersecurity-no-coding-required-536c084f34bc) on medium - March 12,2025.
 
-More Coming...
+And the rest are my works i have done in Sep -2025.
