@@ -33,3 +33,7 @@
 ## Tool-CheatSheet
 
 * [Gobuster](tool-cheatsheet/gobuster.md)
+
+## fsociety
+
+* [“Hacker Talk: Turning the Terminal into a Chatroom”](fsociety/hacker-talk-turning-the-terminal-into-a-chatroom.md)
