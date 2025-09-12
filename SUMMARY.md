@@ -16,6 +16,7 @@
   * [Nibbles](writeups/htb/nibbles.md)
   * [Planning](writeups/htb/planning.md)
   * [Fluffy](writeups/htb/fluffy.md)
+  * [Soulmate](writeups/htb/soulmate.md)
 
 ## General
 
