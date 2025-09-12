@@ -15,6 +15,7 @@
 * [HTB](writeups/htb/README.md)
   * [Nibbles](writeups/htb/nibbles.md)
   * [Planning](writeups/htb/planning.md)
+  * [Fluffy](writeups/htb/fluffy.md)
 
 ## General
 
