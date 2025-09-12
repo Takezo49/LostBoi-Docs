@@ -152,4 +152,4 @@ Since the erlang port is running on local host we dont have a choice but to run 
 
 And that's it we got root on boxx!!!!
 
-<img src="../../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw (2).svg" alt="" class="gitbook-drawing">
