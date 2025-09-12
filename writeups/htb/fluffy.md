@@ -1,13 +1,6 @@
 # Fluffy
 
-#### Fluffy-HTB
-
-\
-
-
-#### **Recon**
-
-\
+**Recon**\
 
 
 <figure><img src="https://cdn-images-1.medium.com/max/800/1*WOkRFNGGWbrho4Q-nWgI9g.png" alt=""><figcaption></figcaption></figure>
