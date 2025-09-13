@@ -22,6 +22,10 @@
 
 * [Pentest flow](pentesting/pentest-flow/README.md)
   * [Recon and Enum](pentesting/pentest-flow/recon-and-enum.md)
+  * [Web ](pentesting/pentest-flow/web.md)
+  * [Exploiting](pentesting/pentest-flow/exploiting.md)
+  * [Post Exploitation](pentesting/pentest-flow/post-exploitation.md)
+  * [lateral movement](pentesting/pentest-flow/lateral-movement.md)
 
 ## Tool-CheatSheet
 
