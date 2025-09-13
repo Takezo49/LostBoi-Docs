@@ -1,6 +1,23 @@
 ---
 cover: .gitbook/assets/nerdd (1).png
 coverY: 53.31514569546315
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Welcome
