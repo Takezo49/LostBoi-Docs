@@ -18,10 +18,10 @@
   * [Fluffy](writeups/htb/fluffy.md)
   * [Soulmate](writeups/htb/soulmate.md)
 
-***
+## Pentesting
 
-* [Pentest flow](pentest-flow/README.md)
-  * [Recon and Enum](pentest-flow/recon-and-enum.md)
+* [Pentest flow](pentesting/pentest-flow/README.md)
+  * [Recon and Enum](pentesting/pentest-flow/recon-and-enum.md)
 
 ## Tool-CheatSheet
 
