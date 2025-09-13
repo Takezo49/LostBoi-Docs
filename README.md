@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/2nerdd.png
+cover: .gitbook/assets/green.png
 coverY: 0
 layout:
   width: default
