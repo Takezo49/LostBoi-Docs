@@ -37,6 +37,8 @@
 ## Tool-CheatSheet
 
 * [Gobuster](tool-cheatsheet/gobuster.md)
+* [ffuf](tool-cheatsheet/ffuf.md)
+* [Netexec](tool-cheatsheet/netexec.md)
 
 ## fsociety
 
