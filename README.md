@@ -1,11 +1,11 @@
 ---
-cover: .gitbook/assets/nerdd (1).png
-coverY: 53.31514569546315
+cover: .gitbook/assets/2nerdd.png
+coverY: 0
 layout:
   width: default
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
