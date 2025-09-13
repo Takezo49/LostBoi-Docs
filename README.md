@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/thumb-1920-376253.jpg
+cover: .gitbook/assets/nerdd.png
 coverY: 0
 ---
 
