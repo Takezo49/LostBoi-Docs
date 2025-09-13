@@ -28,7 +28,7 @@
 * [OSCP CheatSheet](cheatsheets/oscp-cheatsheet.md)
 * [Linux Quick Enum](cheatsheets/linux-quick-enum.md)
 * [Windows Quick enum](cheatsheets/windows-quick-enum.md)
-* [Reverse Shell CheatSheet](cheatsheets/reverse-shell-cheatsheet.md)
+* [Reverse Shell Cheat Sheet](cheatsheets/reverse-shell-cheat-sheet.md)
 
 ## Binary Exploitation
 

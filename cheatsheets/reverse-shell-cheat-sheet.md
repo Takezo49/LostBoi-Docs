@@ -2,9 +2,7 @@
 icon: arrow-up-arrow-down
 ---
 
-# Reverse Shell CheatSheet
-
-Got it! We’ll keep **everything** from your original cheatsheet but structure it in a **clear, organized, and readable way** so that it’s easy to navigate and use. I will group by **language/tool**, then by **TCP/UDP/platform**, and add **headings, indentation, and notes** for clarity—without removing any content. Here’s the improved version:
+# Reverse Shell Cheat Sheet
 
 ***
 
