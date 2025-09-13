@@ -26,6 +26,8 @@
 ## Cheatsheets
 
 * [OSCP CheatSheet](cheatsheets/oscp-cheatsheet.md)
+* [Linux Quick Enum](cheatsheets/linux-quick-enum.md)
+* [Windows Quick enum](cheatsheets/windows-quick-enum.md)
 
 ## Binary Exploitation
 
