@@ -27,6 +27,7 @@
   * [Post Exploitation](pentesting/pentest-flow/post-exploitation.md)
   * [lateral movement](pentesting/pentest-flow/lateral-movement.md)
   * [Active Directory](pentesting/pentest-flow/active-directory.md)
+  * [Pivoting](pentesting/pentest-flow/pivoting.md)
 
 ## Tool-CheatSheet
 
@@ -40,7 +41,7 @@
 * [Linux Quick Enum](cheatsheets/linux-quick-enum.md)
 * [Windows Quick enum](cheatsheets/windows-quick-enum.md)
 * [Reverse Shell Cheat Sheet](cheatsheets/reverse-shell-cheat-sheet.md)
-* [Portforwarding](cheatsheets/portforwarding.md)
+* [Port Forwarding](cheatsheets/port-forwarding.md)
 
 ## General
 
