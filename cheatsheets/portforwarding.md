@@ -1,0 +1,65 @@
+---
+icon: forward
+---
+
+# Portforwarding
+
+### What is port Forwarding?
+
+Port forwarding is the process of redirecting network traffic from one port or address to another.
+
+Example : Let’s consider a situation you have compromised a machine and identified that a different application is running on [localhost](http://localhost) on a different port. Now you want to Forward that Port to your Attacker Machines.
+
+#### USING SSH
+
+**From Attacker Machine**
+
+Since you have access to compromised machine you can forward the local address and port to your machine.
+
+```jsx
+ssh -L 1234:localhost:8000 victim@<ADDRESS>
+```
+
+-L for local port Forward.
+
+[localhost:8000](http://localhost:8000) is the address and port which the application is running on victim machine.
+
+1234 is the port which you want the traffic to be redirected too.
+
+victim@\<ADDRESS> is the address of your victim machine.
+
+Now you can access locally running application in attackers [localhost:1234](http://localhost:1234).
+
+**From Victim Machine**
+
+type \~c then you’ll prompt into a little ssh prompt then
+
+```jsx
+-L 1234:localhost:8000 
+```
+
+1234 is the port you forward [localhost:8000](http://localhost:8000) to.
+
+**CheatSheet**
+
+```jsx
+# the target host 192.168.0.100 is running a service on port 8888      
+# and you want that service available on the localhost port 7777
+        
+ssh -L 7777:localhost:8888 user@192.168.0.100
+        
+        
+# remote port forwarding
+# you are running a service on localhost port 9999 
+# and you want that service available on the target host 192.168.0.100 port 12340
+        
+ssh -R 12340:localhost:9999 user@192.168.0.100
+       
+# Local proxy through remote host
+# You want to route network traffic through a remote host target.host
+# so you create a local socks proxy on port 12001 and configure the SOCKS5 settings to localhost:12001
+       
+ssh -C2qTnN -D 12001 user@target.host# local port forwarding
+       
+          
+```

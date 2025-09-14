@@ -40,6 +40,7 @@
 * [Linux Quick Enum](cheatsheets/linux-quick-enum.md)
 * [Windows Quick enum](cheatsheets/windows-quick-enum.md)
 * [Reverse Shell Cheat Sheet](cheatsheets/reverse-shell-cheat-sheet.md)
+* [Portforwarding](cheatsheets/portforwarding.md)
 
 ## General
 
@@ -54,7 +55,3 @@
 ## fsociety
 
 * [“Hacker Talk: Turning the Terminal into a Chatroom”](fsociety/hacker-talk-turning-the-terminal-into-a-chatroom.md)
-
-***
-
-* [Page 1](page-1.md)
