@@ -1,14 +1,14 @@
 # Server Side Template Injection
 
-### Methodology
+## Methodology
 
 1. Identify all the Reflections of user controller input.
 2. Check if our payload is being Evaluated through template engine.
 3. Exploitation, Check for RCE.
 
-### Understanding Basics
+## Understanding Basics
 
-#### What is a Template?
+### What is a Template?
 
 a **template** is a file that describes _how_ a page (or other text) should look, with **placeholders** where data will be inserted later. Think of it like a mail-merge letter: the letter is the template and the recipient names/addresses are the data plugged into placeholders.
 
@@ -16,7 +16,7 @@ Example :
 
 ![image.png](<../.gitbook/assets/image 7 (1).png>)
 
-#### What is a template Engine?
+### What is a template Engine?
 
 A template engine combines a template (containing placeholders and logic) with data to produce a final document, like an HTML page.
 
@@ -80,11 +80,11 @@ console.log(renderedHtml);
 <p>Hello, my name is Alice and I am 30 years old.</p><p>I live in New York.</p>
 ```
 
-### In Depth Explanation
+## In Depth Explanation
 
 ***
 
-#### **1. User submits input (browser → server)**
+### **1. User submits input (browser → server)**
 
 The browser shows a form like:
 
@@ -108,7 +108,7 @@ name=Raja
 
 ***
 
-#### 2. Server receives the request
+### 2. Server receives the request
 
 Your server route handles it. Example in Express:
 
@@ -129,7 +129,7 @@ Here’s the key:
 
 ***
 
-#### 3. Template gets rendered on the server
+### 3. Template gets rendered on the server
 
 Suppose `event.ejs` looks like:
 
@@ -149,7 +149,7 @@ The server uses the **renderer** and produces final HTML:
 
 ***
 
-#### 4. Server sends the rendered HTML back
+### 4. Server sends the rendered HTML back
 
 The server sends this rendered HTML as the HTTP response:
 
@@ -185,9 +185,9 @@ That’s why we say _the template is rendered on the server, then sent to the br
 
 ***
 
-### Event.ejs
+## Event.ejs
 
-#### **1. What is `event.ejs`?**
+### **1. What is `event.ejs`?**
 
 * It’s just a **text file** (like `.html`), but it contains **placeholders** for data.
 * Example (`event.ejs` file):
@@ -205,7 +205,7 @@ Notice the `<%= ... %>` parts?
 
 ***
 
-#### **2. How does the server use it?**
+### **2. How does the server use it?**
 
 When the server runs this line:
 
@@ -219,7 +219,7 @@ res.render("event", { event: { name: "TechConf", date: "2025-10-01" } });
 
 ***
 
-#### **3. What happens during rendering**
+### **3. What happens during rendering**
 
 * The template engine (EJS) opens `event.ejs`.
 * It sees `<%= event.name %>` → replaces it with `"TechConf"`.
@@ -235,7 +235,7 @@ So after rendering, the final HTML string becomes:
 
 ***
 
-#### **4. How the browser gets it**
+### **4. How the browser gets it**
 
 That final HTML is what the server sends back to the browser as the **response**.
 
@@ -243,7 +243,7 @@ The browser doesn’t know about `<%= ... %>` — it only sees the finished HTML
 
 ***
 
-#### **5. Visualizing the process**
+### **5. Visualizing the process**
 
 #### Template file (`event.ejs`)
 
