@@ -35,9 +35,9 @@ Let’s learn, hack (ethically), and grow together in the exciting world of **we
 
 ### About Me
 
-I am a **Network Engineer and Penetration Tester** with a strong interest in **web exploitation and cybersecurity**. I enjoy finding security issues, fixing them, and making systems safer. To improve my skills, I regularly take part in **CTF challenges** on platforms like **TryHackMe** and **HackTheBox**.
+I'm just a wanna be mr. robot interested in Hacking stuff . I enjoy solving box's in HTB and TryHackMe to  improve my skills
 
-I bring a mix of **practical problem-solving and technical knowledge**. Whether it’s building secure networks, testing for weaknesses, or learning new tools, I always look for ways to grow and stay updated in the field of cybersecurity.
+And I wanna do some contribution to Hacking Community and improve myself. &#x20;
 
 ### Blog Posts
 
