@@ -1,6 +1,6 @@
 # API - Endpoints
 
-Good question 👌 — when you're testing or exploring a web application, it’s not always obvious whether you’re hitting a **normal web page** or an **API endpoint**. Here are some ways to figure it out:
+
 
 ***
 
