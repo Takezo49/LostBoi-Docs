@@ -6,6 +6,7 @@
 
 * [LFI, RFI](web-vulns/lfi-rfi.md)
 * [Server Side Template Injection](web-vulns/server-side-template-injection.md)
+* [API - Endpoints](web-vulns/api-endpoints.md)
 
 ## Writeups
 
