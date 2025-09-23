@@ -47,6 +47,7 @@
 * [Windows Quick enum](cheatsheets/windows-quick-enum.md)
 * [Reverse Shell Cheat Sheet](cheatsheets/reverse-shell-cheat-sheet.md)
 * [Port Forwarding](cheatsheets/port-forwarding.md)
+* [XSS](cheatsheets/xss.md)
 
 ## General
 
