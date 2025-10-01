@@ -59,6 +59,6 @@
 * [What is a Memory?](binary-exploitation/what-is-a-memory.md)
 * [Assembly Basics](binary-exploitation/assembly-basics.md)
 
-## fsociety
+## Fun
 
-* [“Hacker Talk: Turning the Terminal into a Chatroom”](fsociety/hacker-talk-turning-the-terminal-into-a-chatroom.md)
+* [“Hacker Talk: Turning the Terminal into a Chatroom”](fun/hacker-talk-turning-the-terminal-into-a-chatroom.md)
