@@ -20,6 +20,7 @@ Authentication
 curl -u admin:admin http://<SERVER_IP>:<PORT>/          # Set HTTP basic auth credentials
 curl <http://admin>:admin@<SERVER_IP>:<PORT>/             # Pass HTTP basic auth in URL
 curl -H 'Authorization: Basic YWRtaW46YWRtaW4=' http://<SERVER_IP>:<PORT>/  # Set request header
+curl -A "Googlebot/2.1 (+http://www.google.com/bot.html)" https://target.example/
 
 GET & POST Parameters
 ---------------------
