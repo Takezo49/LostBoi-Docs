@@ -62,3 +62,7 @@
 ## Fun
 
 * [“Hacker Talk: Turning the Terminal into a Chatroom”](fun/hacker-talk-turning-the-terminal-into-a-chatroom.md)
+
+## Network
+
+* [Kerberos Authentication](network/kerberos-authentication.md)
