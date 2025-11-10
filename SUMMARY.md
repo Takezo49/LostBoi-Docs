@@ -48,6 +48,7 @@
 * [Reverse Shell Cheat Sheet](cheatsheets/reverse-shell-cheat-sheet.md)
 * [Port Forwarding](cheatsheets/port-forwarding.md)
 * [XSS](cheatsheets/xss.md)
+* [Recon Quick](cheatsheets/recon-quick.md)
 
 ## General
 
