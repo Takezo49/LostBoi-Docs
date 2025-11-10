@@ -1,3 +1,7 @@
+---
+icon: heat
+---
+
 # Recon Quick
 
 
