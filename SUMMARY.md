@@ -21,6 +21,8 @@
   * [Planning](writeups/htb/planning.md)
   * [Fluffy](writeups/htb/fluffy.md)
   * [Soulmate](writeups/htb/soulmate.md)
+* [VulnLab](writeups/vulnlab/README.md)
+  * [Baby](writeups/vulnlab/baby.md)
 
 ## Pentesting
 
