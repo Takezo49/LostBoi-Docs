@@ -154,6 +154,8 @@ SMB         10.10.108.32    445    BABYDC           [-] baby.vl\\Caroline.Robins
 CHANGE-P... 10.10.108.32    445    BABYDC           [+] Successfully changed password for Caroline.Robinson
 ```
 
+login in using evil-winrm through new creds and get user flag.
+
 Then perform SeBackupPrivilage exploitation for domain controller to get root.
 
 Happy hacking ; )
